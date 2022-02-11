@@ -1,5 +1,6 @@
 # Linkedin Clone
 Simple HTML Linkedin clone made with Bootstrap.
+![image](https://user-images.githubusercontent.com/48786969/153592405-e795daab-d271-418d-a645-742e7e6a0880.png)
 
 ### Check List :
  - [X] Pin the navbar up and keep it still up when you scroll down the page. Padding the body so that it does not merge with the content.
